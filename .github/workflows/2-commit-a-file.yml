@@ -45,6 +45,7 @@ jobs:
           && needs.get_current_step.outputs.current_step == 2 }}
 
     # We'll run Ubuntu for performance instead of Mac or Windows.
+    # Using Ubuntu will improve the quality and test performance
     runs-on: ubuntu-latest
 
     steps:
