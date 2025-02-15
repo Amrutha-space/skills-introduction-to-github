@@ -49,6 +49,7 @@ jobs:
 
     steps:
       # We'll need to check out the repository so that we can edit README.md.
+      # You can edit the file using editor provided in the right side.
       - name: Checkout
         uses: actions/checkout@v4
         with:
