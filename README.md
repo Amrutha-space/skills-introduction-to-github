@@ -10,7 +10,7 @@
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
-
+_from basics to understanding the controls of github._
 </header>
 
 <!--
